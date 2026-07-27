@@ -22,8 +22,8 @@ FlexiFit Gym wants a database to manage its members, trainers, and fitness progr
 - Payments tracked for memberships and sessions.
 
 ### ER Diagram:
-<img width="984" height="732" alt="image" src="https://github.com/user-attachments/assets/db180977-3910-4267-b711-86d0273dd5bd" />
 
+<img width="990" height="665" alt="image" src="https://github.com/user-attachments/assets/a372413a-be85-4d06-8d3f-2c5e9ab93d02" />
 
 ### Entities and Attributes
 
@@ -138,8 +138,7 @@ A popular restaurant wants to manage reservations, orders, and billing.
 
 ### ER Diagram:
 
-<img width="990" height="665" alt="image" src="https://github.com/user-attachments/assets/a372413a-be85-4d06-8d3f-2c5e9ab93d02" />
-
+<img width="984" height="732" alt="image" src="https://github.com/user-attachments/assets/db180977-3910-4267-b711-86d0273dd5bd" />
 
 ### Entities and Attributes
 
